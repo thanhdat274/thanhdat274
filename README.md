@@ -60,16 +60,16 @@ namespace NTĐ
 <img src="https://github-trophies.vercel.app/?username=thanhdat274&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4">
 </p>
 
-## <p align="center">Top langs :tongue:</p>
+## <p align="center">Ngôn ngữ hàng đầu :tongue:</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdat274&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="thanhdat274 :: Top Langs" /></p>
 
-## <p align="center">Profile stats :musical_keyboard:</p>
+## <p align="center">Thống kê hồ sơ :musical_keyboard:</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=thanhdat274&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="thanhdat274 :: Profile Stats" /></p> <br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhdat274&theme=radical&hide_border=false" alt="thanhdat274 :: Profile Stats" /></p>
 
-## <p align="center">Github Contributions 📈</p>
+## <p align="center">Đóng góp trên Github 📈</p>
 <br>
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=thanhdat274&theme=react-dark&hide_border=true">
