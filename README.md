@@ -78,7 +78,7 @@ namespace NTĐ
 	
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 <p align='center'>
-<img src="https://github.com/thanhdat274/thanhdat274/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/thanhdat274/thanhdat274/blob/main/github-contribution-grid-snake.svg">
 </p>
 
 <hr>
