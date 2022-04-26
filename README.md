@@ -75,11 +75,3 @@ namespace NTĐ
 <img src="https://activity-graph.herokuapp.com/graph?username=thanhdat274&theme=react-dark&hide_border=true">
 <p>
 	
-	
-## <p align="center">Just a snake eating my contributions 🐍</p>
-<p align='center'>
-<img src="https://github.com/thanhdat274/thanhdat274/blob/main/github-contribution-grid-snake.svg">
-</p>
-
-<hr>
-<br>
