@@ -50,3 +50,36 @@ namespace NTĐ
   </a>
 </p>
 
+## <p align="center">Số lượt ghé thăm :eyes:</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{thanhdat274}/count.svg" alt="thanhdat274 :: Visitor's Count" /></p>
+
+## <p align="center">GitHub Profile Trophy 🏆</p>
+
+<p align='center'>
+<img src="https://github-trophies.vercel.app/?username=thanhdat274&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4">
+</p>
+
+## <p align="center">Top langs :tongue:</p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdat274&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="thanhdat274 :: Top Langs" /></p>
+
+## <p align="center">Profile stats :musical_keyboard:</p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=thanhdat274&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="thanhdat274 :: Profile Stats" /></p> <br>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhdat274&theme=radical&hide_border=false" alt="thanhdat274 :: Profile Stats" /></p>
+
+## <p align="center">Github Contributions 📈</p>
+<br>
+<p align='center'>
+<img src="https://activity-graph.herokuapp.com/graph?username=thanhdat274&theme=react-dark&hide_border=true">
+<p>
+	
+	
+## <p align="center">Just a snake eating my contributions 🐍</p>
+<p align='center'>
+<img src="https://github.com/thanhdat274/thanhdat274/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+<hr>
+<br>
