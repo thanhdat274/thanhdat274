@@ -63,6 +63,7 @@ namespace NTĐ
 ## <p align="center">Ngôn ngữ hàng đầu :tongue:</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdat274&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="thanhdat274 :: Top Langs" /></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdat274&langs_count=10&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="thanhdat274 :: Top Langs" /></p> -->
 
 ## <p align="center">Thống kê hồ sơ :musical_keyboard:</p>
 
