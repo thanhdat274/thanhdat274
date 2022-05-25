@@ -17,10 +17,10 @@ namespace NTĐ
         {
             string Name = "Nguyễn Thành Đạt";
             string Age = "2002";
-            string Gender = "Male";
+            string Gender = "Nam";
             string Address = "Hà Đông, Hà Nội, Việt Nam";
             string University = "Trường cao đẳng thực hành FPT Polytechnic Hà Nội";
-            string Skills = "C, Java, HTML/CSS, JavaScript, ReactJS, TypeScript, NodeJS";
+            string Skills = "C, Java, HTML5/CSS3, JavaScript, ReactJS, TypeScript, NodeJS";
         }
     }
 }
@@ -62,8 +62,8 @@ namespace NTĐ
 
 ## <p align="center">Ngôn ngữ hàng đầu :tongue:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdat274&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="thanhdat274 :: Top Langs" /></p>
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdat274&langs_count=10&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="thanhdat274 :: Top Langs" /></p> -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdat274&langs_count=10&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="thanhdat274 :: Top Langs" /></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdat274&langs_count=10&theme=tokyonight&layout=compact" alt="ngoctienTNT :: Top Langs" /></p> -->
 
 ## <p align="center">Thống kê hồ sơ :musical_keyboard:</p>
 
