@@ -54,11 +54,6 @@ namespace NTĐ
 
 <p align="center"><img src="https://profile-counter.glitch.me/{thanhdat274}/count.svg" alt="thanhdat274 :: Visitor's Count" /></p>
 
-## <p align="center">GitHub Profile Trophy 🏆</p>
-
-<p align='center'>
-<img src="https://github-trophies.vercel.app/?username=thanhdat274&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4">
-</p>
 
 ## <p align="center">Ngôn ngữ hàng đầu :tongue:</p>
 
