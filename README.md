@@ -20,7 +20,7 @@ namespace NTĐ
             string Gender = "Nam";
             string Address = "Hà Đông, Hà Nội, Việt Nam";
             string University = "Trường Cao đẳng FPT Polytechnic Hà Nội";
-            string Skills = "C, Java, MySQL, PHP, HTML5/CSS3, JavaScript, ReactJS, TypeScript, NodeJS";
+            string Skills = "C, Java, MySQL, PHP, HTML5/CSS3, JavaScript, ReactJS, TypeScript, NodeJS, Angular";
         }
     }
 }
