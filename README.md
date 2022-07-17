@@ -55,15 +55,19 @@ namespace NTĐ
 <p align="center"><img src="https://profile-counter.glitch.me/{thanhdat274}/count.svg" alt="thanhdat274 :: Visitor's Count" /></p>
 
 
-## <p align="center">Ngôn ngữ hàng đầu :tongue:</p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdat274&langs_count=10&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="thanhdat274 :: Top Langs" /></p>
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdat274&langs_count=10&theme=tokyonight&layout=compact" alt="ngoctienTNT :: Top Langs" /></p> -->
-
 ## <p align="center">Thống kê hồ sơ :musical_keyboard:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=thanhdat274&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="thanhdat274 :: Profile Stats" /></p> <br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhdat274&theme=radical&hide_border=false" alt="thanhdat274 :: Profile Stats" /></p>
+<table style="width:100%;">
+  <tr>
+    <td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdat274&langs_count=10&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="thanhdat274 :: Top Langs" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=thanhdat274&theme=radical&hide_border=false&include_all_commits=false&count_private=false&custom_title=Hoạt%20động%20trên%20Github"" alt="thanhdat274 :: Profile Stats" width="100%" />
+ </td>
+    <td>
+ <p align="center"><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/></p>
+    </td>
+  </tr>
+</table>
 
 ## <p align="center">Đóng góp trên Github 📈</p>
 <br>
