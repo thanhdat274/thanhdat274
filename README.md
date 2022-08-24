@@ -73,5 +73,5 @@ namespace NTĐ
 <br>
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=thanhdat274&theme=react-dark&hide_border=true">
-<p>
+</p>
 	
