@@ -74,4 +74,6 @@ namespace NTĐ
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=thanhdat274&theme=react-dark&hide_border=true">
 </p>
-![](https://github.com/thanhdat274/thanhdat274/blob/main/images/github-contribution-grid-snake.svg)
+<img src="https://github.com/thanhdat274/thanhdat274/blob/main/images/github-contribution-grid-snake.svg">
+
+<!-- ![](https://github.com/thanhdat274/thanhdat274/blob/main/images/github-contribution-grid-snake.svg) -->
