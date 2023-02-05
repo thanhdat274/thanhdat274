@@ -18,9 +18,9 @@ namespace NTĐ
             string Name = "Nguyễn Thành Đạt";
             string Age = "2002";
             string Gender = "Nam";
-            string Address = "Hà Đông, Hà Nội, Việt Nam";
+            string Address = "Hà Đông, Hà Nội";
             string University = "Trường Cao đẳng FPT Polytechnic Hà Nội";
-            string Skills = "C, Java, MySQL, PHP, HTML5/CSS3, JavaScript, ReactJS, TypeScript, NodeJS, Angular";
+            string Skills = "C, Java, MySQL, PHP, HTML5/CSS3, JavaScript, ReactJS, TypeScript, NodeJS, Angular, Shopify liquid";
         }
     }
 }
