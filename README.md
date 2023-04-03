@@ -8,22 +8,13 @@
 
 <h2 align="center">Thông tin cá nhân</h2>
 
-```C#
-namespace NTĐ
-{
-    class thanhdat274
-    {
-        static void Main(string[] args)
-        {
-            string Name = "Nguyễn Thành Đạt";
-            string Age = "2002";
-            string Gender = "Nam";
-            string Address = "Hà Đông, Hà Nội";
-            string University = "Trường Cao đẳng FPT Polytechnic Hà Nội";
-            string Skills = "C, Java, MySQL, PHP, HTML5/CSS3, JavaScript, ReactJS, TypeScript, NodeJS, Angular, Shopify liquid";
-        }
-    }
-}
+```JS
+const Name = "Nguyễn Thành Đạt";
+const Age = "2002";
+const Gender = "Nam";
+const Address = "Hà Đông - Hà Nội";
+const University = "Trường Cao đẳng FPT Polytechnic Hà Nội";
+const Skills = "C, Java, MySQL, PHP, HTML5/CSS3, JavaScript, ReactJS, TypeScript, NodeJS, Angular, Shopify liquid";
 ```
 
 ## <p align="center">Thông tin liên hệ 🌹</p>
