@@ -52,15 +52,20 @@ const Skills = "C, Java, MySQL, PHP, HTML5/CSS3, JavaScript, ReactJS, TypeScript
   <tr>
     <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdat274&langs_count=10&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="thanhdat274 :: Top Langs" width="100%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=thanhdat274&theme=radical&hide_border=false&include_all_commits=false&count_private=false&custom_title=Hoạt%20động%20trên%20Github"" alt="thanhdat274 :: Profile Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=thanhdat274&theme=radical&hide_border=false&include_all_commits=false&show_icons=true&count_private=true" alt="thanhdat274 :: Profile Stats" width="100%" />
+
  </td>
     <td>
  <p align="center"><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/></p>
+	    	  <p align="center">
+	  <img src="https://metrics.lecoq.io/thanhdat274" >
+			  </p>
     </td>
+
   </tr>
 </table>
 		
-<img src="https://metrics.lecoq.io/thanhdat274" >													
+													
 
 ## <p align="center">Đóng góp trên Github 📈</p>
 <img src="https://github.com/thanhdat274/thanhdat274/blob/output/github-contribution-grid-snake.svg">
