@@ -59,6 +59,8 @@ const Skills = "C, Java, MySQL, PHP, HTML5/CSS3, JavaScript, ReactJS, TypeScript
     </td>
   </tr>
 </table>
+		
+<img src="https://metrics.lecoq.io/thanhdat274" >													
 
 ## <p align="center">Đóng góp trên Github 📈</p>
 <img src="https://github.com/thanhdat274/thanhdat274/blob/output/github-contribution-grid-snake.svg">
